@@ -84,7 +84,7 @@
 }
 
 .notion-collection-card-cover {
-  border-radius: 0px;
+  border-radius: 4px;
   overflow: visible;
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
@@ -319,10 +319,10 @@
 }
 
 /* if you don't want rounded page images, remove this */
-.notion-page-icon-wrapper img.notion-page-icon {
+/* .notion-page-icon-wrapper img.notion-page-icon {
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
-}
+} */
 
 .notion-header {
   background: hsla(0, 0%, 100%, 0.8);
