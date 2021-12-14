@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Taking somewhat detailed notes from the books I read.",
+    "title": "Book notes",
+    "url": "/books"
+  },
+  {
+    "description": "Building the user-facing parts since 2017.",
+    "title": "Put.io",
+    "url": "https://put.io"
+  },
+  {
+    "description": "Maintaining an open-source payment gateway for NANO cryptocurrency.",
+    "title": "Accept Nano",
+    "url": "https://github.com/accept-nano/accept-nano-client"
+  },
+  {
+    "description": "Building this website with NextJS and a bunch of APIs.",
+    "title": "altay-dot-wtf",
+    "url": "https://github.com/altaywtf/altay-dot-wtf"
+  }
+]
